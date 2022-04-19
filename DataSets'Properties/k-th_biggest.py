@@ -28,6 +28,6 @@ def insterting(array, k):
             m[j] = x
     return m[0]
 
-
-tab = [2, 3, 5, 9, 1, 4, 8, 10, 7, 6]
-print(insterting(tab, 3))
+if __name__ == "__main__":
+    tab = [2, 3, 5, 9, 1, 4, 8, 10, 7, 6]
+    print(insterting(tab, 3))
