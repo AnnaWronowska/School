@@ -4,7 +4,7 @@ Kody napisane do szkoły
 Codes I wrote for school
 
 
-in progress
+uploaded:
 - [ ] notations
 - [ ] graphs
 - [ ] discrete algorithms
