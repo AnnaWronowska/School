@@ -53,5 +53,6 @@ def with_sorting(array):
     return max_value, max_amount
 
 
-tab = [1, 2, 3, 4, 5, 2, 1, 10, 6, 7, 8, 9, 1]
-print(with_sorting(tab))
+if __name__ == "__main__":
+    tab = [1, 2, 3, 4, 5, 2, 1, 10, 6, 7, 8, 9, 1]
+    print(with_sorting(tab))
