@@ -9,7 +9,7 @@ uploaded:
 - [ ] graphs
 - [ ] discrete algorithms
 - [ ] recursion/iteration
-- [ ] greedy algorithms
+- [x] greedy algorithms
 - [x] cryptology
 - [x] numerical methods
 - [ ] data sets' properties
