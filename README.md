@@ -4,7 +4,7 @@ Kody napisane do szkoły (starsze w C++, nowsze w Pythonie)
 Codes I wrote for school (older ones in C++, newer in Python)
 
 
-uploaded:
+fully uploaded:
 - [ ] notations
 - [ ] graphs
 - [ ] discrete algorithms
