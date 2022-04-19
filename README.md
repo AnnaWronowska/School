@@ -1,7 +1,7 @@
 # School
-Kody napisane do szkoły
+Kody napisane do szkoły (starsze w C++, nowsze w Pythonie)
 
-Codes I wrote for school
+Codes I wrote for school (older ones in C++, newer in Python)
 
 
 uploaded:
