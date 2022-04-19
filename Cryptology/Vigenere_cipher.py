@@ -10,6 +10,7 @@ var = 0
 var2 = 0
 alphabets = []
 outp = ''
+
 for i in range(26):
     alphabets.append(list(map(chr, range(65 + i, 91))) + list(map(chr, range(65, 65 + i))))
 
