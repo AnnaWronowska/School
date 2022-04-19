@@ -26,6 +26,7 @@ def find_leader(array):
             print('Brak lidera w zbiorze')
             return
 
+
 if __name__ == "__main__":
     tab = [1, 2, 3, 4, 1, 1, 1, 1, 6, 7, 1, 9, 1]
     find_leader(tab)
