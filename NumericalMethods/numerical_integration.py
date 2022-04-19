@@ -51,9 +51,9 @@ def horner(n, x, list1):
 # h(x) = x^3 - x^2 - 4x + 4 dla <-2; 2>
 g = [1, -3, -4, 12, -1, 3, 4, -12]
 h = [1, -1, -4, 4]
-print('Całka f(x) metodą prostokątów: ' + f'{rectangle_integral(0, pi, sin)}')
-print('Całka f(x) metodą trapezów: ' + f'{trapezium_integral(0, pi, sin)}')
-print('Całka g(x) metodą prostokątów: ' + f'{rectangle_integral_horner(-1, 1, 7, g)}')
-print('Całka g(x) metodą trapezów: ' + f'{trapezium_integral_horner(-1, 1, 7, g)}')
-print('Całka h(x) metodą prostokątów: ' + f'{rectangle_integral_horner(-2, 2, 3, h)}')
-print('Całka h(x) metodą trapezów: ' + f'{trapezium_integral_horner(-2, 2, 3, h)}')
+print(f'Całka f(x) metodą prostokątów: {rectangle_integral(0, pi, sin)}')
+print(f'Całka f(x) metodą trapezów: {trapezium_integral(0, pi, sin)}')
+print(f'Całka g(x) metodą prostokątów: {rectangle_integral_horner(-1, 1, 7, g)}')
+print(f'Całka g(x) metodą trapezów: {trapezium_integral_horner(-1, 1, 7, g)}')
+print(f'Całka h(x) metodą prostokątów: {rectangle_integral_horner(-2, 2, 3, h)}')
+print(f'Całka h(x) metodą trapezów: {trapezium_integral_horner(-2, 2, 3, h)}')
