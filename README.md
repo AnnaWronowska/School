@@ -12,6 +12,6 @@ fully uploaded:
 - [x] greedy algorithms
 - [x] cryptology
 - [x] numerical methods
-- [ ] data sets' properties
+- [x] data sets' properties
 - [ ] text processing
 - [ ] computational geometry
